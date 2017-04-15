@@ -1,0 +1,7 @@
+{"entry_list": {"@version": 1.0, "entry": [{"@id": "umpire", "term": {"hw": {"$": "umpire"}}, "fl": {"$": "noun"}, "sens": {"mc": {"$": "a person who impartiall
+y decides or resolves a dispute or controversy"}, "vi": {"$": "Mom usually acts as", "it": {"$": "umpire"}}, "syn": {"$": "arbiter, arbitrator, referee, umpire"
+}, "rel": {"$": "justice, magistrate; intermediary, mediator, negotiator; conciliator, go-between, peacemaker, reconciler; decider"}}}, {"@id": "umpire", "term"
+: {"hw": {"$": "umpire"}}, "fl": {"$": "verb"}, "sens": {"mc": {"$": "to give an opinion about (something at issue or in dispute)"}, "vi": {"$": "In our family,
+ disputes regarding the use of the pool are", "it": {"$": "umpired"}}, "syn": {"$": "adjudge, adjudicate, arbitrate, decide, determine, referee, rule (on), sett
+le, umpire"}, "rel": {"$": "consider, hear, ponder, weigh; size (up); mediate, moderate, negotiate; prosecute, try; find (for", "it": {"$": "or"}}, "near": {"$"
+: "equivocate, skirt"}}}]}}
