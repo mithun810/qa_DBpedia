@@ -61,4 +61,4 @@ def get_key(query):
 '''
 
 
-get_key("What is the highest place in Karakoram near India?")
+get_key("Presindent of India")
