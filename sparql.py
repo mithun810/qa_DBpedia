@@ -33,7 +33,7 @@ def get_spec_onto(res,ontos):
     for o in ontos:
         for result in results['results']['bindings']:
             resu=result['Property']['value']
-            if str(o) in str(resu):
+            if str(o) in str(resu) and 'ontology' in str(resu):
                 prop.append(resu)
     return prop
 print get_onto("China")
